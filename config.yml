@@ -6,7 +6,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Cechix # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Cechix # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -28,7 +28,7 @@ blocks:
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/Cechix
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
@@ -36,7 +36,7 @@ blocks:
 
 # - title: Github
 #   icon: github
-#   url: https://github.com/TU-USUARIO
+#   url: https://github.com/Cechix
 
 # - title: Sitio Web
 #   icon: url
@@ -44,7 +44,7 @@ blocks:
 
 # - title: Telegram
 #   icon: telegram
-#   url: https://t.me/TU-USUARIO
+#   url: https://t.me/Cechix
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones

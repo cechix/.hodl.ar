@@ -30,9 +30,14 @@ blocks:
    icon: twitter
    url: https://twitter.com/Cechix
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+
+
+
+
+- title: Nostr
+  icon: nostr
+  url: https://iris.to/cechix
+
 
  - title: Github
    icon: github

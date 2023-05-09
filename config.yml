@@ -30,14 +30,9 @@ blocks:
    icon: twitter
    url: https://twitter.com/Cechix
 
-
-
-
-
-- title: Nostr
-  icon: nostr
-  url: https://iris.to/cechix
-
+# - title: Nostr
+#  icon: nostr
+#  url: https://iris.to/cechix
 
  - title: Github
    icon: github
